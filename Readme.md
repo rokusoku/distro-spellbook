@@ -1,7 +1,5 @@
 # Hexapod spellbook resources
 
-Spec sheets for components that are included in the hexapod SMD spellbook pages.
-
 Get the pages at <https://hexapod.au>
 
 These are re-distrbutions of the data sheets that were current at the time the set of components for the page was first defined. The current specification from the manufacturer may be more recent.
