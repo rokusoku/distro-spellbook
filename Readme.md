@@ -2,7 +2,7 @@
 
 Get the pages at <https://hexapod.au>
 
-These are re-distrbutions of the data sheets that were current at the time the set of components for the page was first defined. The current specification from the manufacturer may be more recent.
+These data sheets were current at the time the set of components for the page was defined. The current specification from the manufacturer may be more recent.
 
 
 | part                  | name                      | resources |
